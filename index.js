@@ -23,4 +23,4 @@ const dig = (obj, path = []) => {
   }
 };
 
-module.exports = dig;
+export default dig;
